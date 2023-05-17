@@ -6,7 +6,7 @@ import smtplib
 def Email_function():
     email_sender = my_email
     email_password = password
-    email_receiver = 'bran_thom@yahoo.com'
+    email_receiver = ''
     subject = "This is an email sent from python"
     body = """
     You are doing great at  work. Don't forget to Buy, Buy and Sell, Sell. 
